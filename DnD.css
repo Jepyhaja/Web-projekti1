@@ -1,0 +1,112 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+#GPU{
+    width: 45px;
+    height: 20px;
+    border: 2px solid green ;
+    
+}
+#CPU{
+    width: 45px;
+    height: 20px;
+    border: 2px solid blue ;
+}
+#PSU{
+    width: 45px;
+    height: 20px;
+    border: 2px solid black ;
+}
+#HDD{
+    width: 45px;
+    height: 20px;
+    border: 2px solid red ;
+}
+#RAM{
+    width: 45px;
+    height: 20px;
+    border: 2px solid cyan ;
+}
+#SSD{
+    width: 45px;
+    height: 20px;
+    border: 2px solid magenta ;
+}
+#TAH{
+    width: 45px;
+    height: 20px;
+    border: 2px solid gray ;
+}
+#TUU{
+    width: 45px;
+    height: 20px;
+    border: 2px solid orange ;
+}
+#MOBO{
+    width: 45px;
+    height: 20px;
+    border: 2px solid gold ;
+}
+#CASE{
+    width: 300px;
+    height: 250px;
+    border: 2px dotted silver ;
+}
+#GPUDROP{
+    width: 50px;
+    height: 40px;
+    border: 2px solid green ;
+    float:right;
+    
+}
+
+#CPUDROP{
+    width: 50px;
+    height: 40px;
+    border: 2px solid blue ;
+       float:right;
+}
+#PSUDROP{
+    width: 50px;
+    height: 40px;
+    border: 2px solid black ;
+       float:right;
+}
+#HDDDROP{
+    width: 50px;
+    height: 40px;
+    border: 2px solid red ;
+       float:left;
+}
+#RAMDROP{
+    width: 50px;
+    height: 40px;
+    border: 2px solid cyan ;
+       float:left;
+}
+#SSDDROP{
+    width: 50px;
+    height: 40px;
+    border: 2px solid magenta ;
+    float:right;
+}
+#TAHDROP{
+    width: 50px;
+    height: 40px;
+    border: 2px solid gray ;
+    float:left;
+}
+#TUUDROP{
+    width: 50px;
+    height: 40px;
+    border: 2px solid orange ;
+    float:left;
+}
+#MOBODROP{
+    width: 50px;
+    height: 40px;
+    border: 2px solid gold ;
+    float:right;
+}
